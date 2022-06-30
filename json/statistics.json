@@ -1,0 +1,23 @@
+[
+    {
+        "point": 14,
+        "percentage": 60,
+        "gard": "A",
+        "date": "19:57 17/4/2022",
+        "usertimer": "00 นาที 02 วินาที"
+    },
+    {
+        "point": 5,
+        "percentage": 17,
+        "gard": "D+",
+        "date": "19:14 17/4/2022",
+        "usertimer": "5 นาที 32 วินาที"
+    },
+    {
+        "point": 8,
+        "percentage": 60,
+        "gard": "F",
+        "date": "19:14 17/4/2022",
+        "usertimer": "5 นาที 32 วินาที"
+    }
+]
